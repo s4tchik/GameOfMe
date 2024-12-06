@@ -60,19 +60,31 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.50f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\_Scripts\StarterProjectElements\Enemy.cs" />
+    <Compile Include="Assets\_Scripts\InventoryController.cs" />
     <Compile Include="Assets\_Scripts\AbstractDungeonGenerator.cs" />
+    <Compile Include="Assets\_Scripts\StarterProjectElements\ThrowableWeapon.cs" />
+    <Compile Include="Assets\_Scripts\UI_Inv\MouseFollower.cs" />
     <Compile Include="Assets\_Scripts\MainMenuController.cs" />
     <Compile Include="Assets\_Scripts\CorridorFirstDungeonGenerator.cs" />
     <Compile Include="Assets\_Scripts\Data\SimpleRandomWalkSO.cs" />
     <Compile Include="Assets\_Scripts\CameraFollow.cs" />
     <Compile Include="Assets\_Scripts\WallTypesHelper.cs" />
+    <Compile Include="Assets\_Scripts\UI_Inv\UIInventoryDescription.cs" />
     <Compile Include="Assets\_Scripts\TilemapVisualizer.cs" />
     <Compile Include="Assets\_Scripts\RandomSpawn.cs" />
     <Compile Include="Assets\_Scripts\WallGenerator.cs" />
     <Compile Include="Assets\_Scripts\RoomFirstDungeonGenerator.cs" />
+    <Compile Include="Assets\_Scripts\StarterProjectElements\Health.cs" />
     <Compile Include="Assets\_Scripts\ProceduralGenerationAlgorithms.cs" />
+    <Compile Include="Assets\_Scripts\StarterProjectElements\SoundHelper.cs" />
     <Compile Include="Assets\_Scripts\PlayerControll.cs" />
+    <Compile Include="Assets\_Scripts\StarterProjectElements\UISlider.cs" />
+    <Compile Include="Assets\_Scripts\InventoryManager.cs" />
     <Compile Include="Assets\_Scripts\SimpleRandomWalkDungeonGenerator.cs" />
+    <Compile Include="Assets\_Scripts\StarterProjectElements\SO\Scripts\FloatValueSO.cs" />
+    <Compile Include="Assets\_Scripts\UI_Inv\UIInventoryItem.cs" />
+    <Compile Include="Assets\_Scripts\UI_Inv\UIInventoryPage.cs" />
     <Compile Include="Assets\_Scripts\DifficultyController.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -90,6 +102,7 @@
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\_Graphics\generic-rpg-pack_v0.4_(alpha-release)_vacaroxa\release.txt" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
