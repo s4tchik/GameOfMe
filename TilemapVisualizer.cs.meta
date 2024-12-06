@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 9ef1c210db2a15144b6c93da1d060da6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floorTilemap: {instanceID: 0}
+  - wallTilemap: {instanceID: 0}
+  - floorTile: {instanceID: 0}
+  - wallTop: {instanceID: 0}
+  - wallSideRight: {instanceID: 0}
+  - wallSiderLeft: {instanceID: 0}
+  - wallBottom: {instanceID: 0}
+  - wallFull: {instanceID: 0}
+  - wallInnerCornerDownLeft: {instanceID: 0}
+  - wallInnerCornerDownRight: {instanceID: 0}
+  - wallDiagonalCornerDownRight: {instanceID: 0}
+  - wallDiagonalCornerDownLeft: {instanceID: 0}
+  - wallDiagonalCornerUpRight: {instanceID: 0}
+  - wallDiagonalCornerUpLeft: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
